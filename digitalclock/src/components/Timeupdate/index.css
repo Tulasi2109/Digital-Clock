@@ -1,0 +1,23 @@
+button{
+    text-align: center;
+    padding: 1rem;
+    background-color: rgb(255, 105, 105);
+    color: rgb(255, 240, 240);
+    border-radius: 0.5rem;
+    font-weight: 500;
+    font-size: 2rem;
+    
+}
+
+.time {
+    text-align: center;
+    margin: 25%;
+}
+ h1 {
+    font-size: 5rem;
+    color:rgb(253, 224, 6)
+}
+
+*{
+    background-color: rgb(104, 205, 91);
+}
